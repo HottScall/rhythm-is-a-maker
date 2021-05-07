@@ -1,3 +1,6 @@
+cypress/screenshots
+spec/integration/screenshots
+
 # Logs
 logs
 *.log
